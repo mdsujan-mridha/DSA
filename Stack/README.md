@@ -23,6 +23,9 @@ The steps involved in the PUSH operation are given below:
 - When the new element is pushed in a stack, first, the value of the top gets incremented, i.e., top = top + 1, and the element will be placed at the new position of the top.
 - The elements will be inserted until we reach the max size of the stack.
 
+![Alt text](https://static.javatpoint.com/ds/images/ds-stack2.png)
+
+
 ## POP operation
 
 -  Before deleting the element from the stack, we check whether the stack is empty.
