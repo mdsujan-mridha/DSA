@@ -33,3 +33,4 @@ The steps involved in the PUSH operation are given below:
 -  If the stack is not empty, we first access the element which is pointed by the top 
 -  Once the pop operation is performed, the top is decremented by 1, i.e., top=top-1.
 
+![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/0*XBQwQqNoaSFNZVGw.png)
